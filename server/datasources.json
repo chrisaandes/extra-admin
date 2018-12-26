@@ -1,0 +1,12 @@
+{
+  "db": {
+    "host": "ds135704.mlab.com",
+    "port": 35704,
+    "url": "",
+    "database": "extra",
+    "password": "3xtr4beneficios2019",
+    "name": "db",
+    "user": "extra",
+    "connector": "mongodb"
+  }
+}
